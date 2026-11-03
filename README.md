@@ -42,6 +42,17 @@ Detailed loan records including loan amount, interest rate, installment, grade, 
 ## Project File
 financial loan project.pbix
 
+## Dashboard Preview
+
+### Page 1 - Loan Summary
+![Loan Summary](Page1.png)
+
+### Page 2 - Loan Analysis
+![Loan Analysis](Page2.png)
+
+### Page 3 - Loan Details
+![Loan Details](Page3.png)
+
 ## Author
 M. Soundharya
 

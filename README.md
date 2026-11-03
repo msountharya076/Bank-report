@@ -1,72 +1,48 @@
-Financial Loan Analysis Dashboard
+# Financial Loan Analysis Dashboard
 
-Project Overview
+## Project Overview
+An interactive 3-page Financial Loan Analysis Dashboard developed using Microsoft Power BI to analyze bank loan applications, funded amounts, repayment performance, and borrower information.
 
-This project focuses on analyzing bank loan data using Microsoft Power BI. The dashboard provides insights into loan applications, funded amounts, repayments, borrower details, and loan performance.
+## Project Objectives
+- Analyze total loan applications.
+- Track total funded and received amounts.
+- Compare Good Loans and Bad Loans.
+- Analyze loan trends and repayment status.
+- Understand borrower and loan characteristics.
 
-Tools & Technologies
-
+## Tools Used
 - Microsoft Power BI
-- Power Query
 - DAX
-- Data Visualization
+- Power Query
 
-Dashboard Pages
+## Key Performance Indicators
+- Total Loan Applications: 39K
+- Total Funded Amount: 436M
+- Total Amount Received: 473M
+- Average Interest Rate: 0.12
+- Average DTI: 0.13
 
-1. Bank Loan Summary
+## Dashboard Pages
 
-- Total Loan Applications
-- Total Funded Amount
-- Total Amount Received
-- Average Interest Rate
-- Average DTI
-- Good Loan and Bad Loan Analysis
+### Page 1: Loan Summary
+KPI cards, Good Loan vs Bad Loan analysis, and loan status breakdown.
 
-2. Loan Analysis
+### Page 2: Loan Analysis
+Monthly trends, loan term, home ownership, state-wise distribution, employment length, and loan purpose.
 
-- Monthly Loan Applications
-- State-wise Loan Analysis
-- Loan Purpose Analysis
-- Employee Length Analysis
-- Loan Term Analysis
-- Home Ownership Analysis
+### Page 3: Detailed Loan Data
+Detailed loan records including loan amount, interest rate, installment, grade, and issue date.
 
-3. Loan Details
+## Key Insights
+- Analyzed approximately 39K loan applications.
+- Compared funded amounts and received amounts.
+- Evaluated loan repayment status.
+- Explored loan distribution by term, purpose, and borrower characteristics.
 
-- Loan ID
-- Loan Purpose
-- Loan Grade and Sub-grade
-- Issue Date
-- Loan Amount
-- Interest Rate
-- Installment Details
+## Project File
+financial loan project.pbix
 
-Key Performance Indicators (KPIs)
-
-- Total Loan Applications
-- Total Funded Amount
-- Total Amount Received
-- Average Interest Rate
-- Average Debt-to-Income (DTI)
-- Good Loan Applications
-- Bad Loan Applications
-
-Project Objectives
-
-- Analyze loan application trends.
-- Identify good and bad loan performance.
-- Understand borrower information.
-- Analyze loan distribution by state and purpose.
-- Generate meaningful business insights.
-
-Files
-
-- "financial loan project.pbix" – Power BI dashboard file.
-
-Conclusion
-
-This project demonstrates how Power BI can be used to analyze financial loan data, monitor loan performance, and support data-driven business decisions.
-
-Author
-
+## Author
 M. Soundharya
+
+**Domain:** Data Analytics | Banking & Finance
